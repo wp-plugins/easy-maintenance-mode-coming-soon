@@ -9,7 +9,7 @@ Plugin URI: http://webriti.com/easy-coming-soon-pro-detail-page/
 */
 
 /*
- * Default Constants
+ * Default Constants..
 */
 ###	Run 'Install' script on plugin activation ###
 register_activation_hook( __FILE__, 'DefaultScriptData' );
